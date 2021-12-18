@@ -9,6 +9,8 @@ Super Resolution:
 
 https://www.tensorflow.org/hub/tutorials/image_enhancing
 
+This was used in ```sr_run.py```.
+
 
 ### Assignment 1
 - Internet Images train set + CIFAR10 test set
@@ -17,6 +19,6 @@ https://www.tensorflow.org/hub/tutorials/image_enhancing
 
 ### Assignment 2
 - Fine Grained Visual Recognition Task
-- Swin Transformer (swin-base-384) + Effnetv2 (efficientnetv2-s)
+- Swin Transformer (```swin-base-384```) + Effnetv2 (```efficientnetv2-s```)
 - Trained last block of Swin transformer
 - Trained last layer of Effnetv2
